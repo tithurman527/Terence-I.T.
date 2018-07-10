@@ -1,1 +1,1 @@
-# Ternce-I.T.
+# Terence-I.T.
