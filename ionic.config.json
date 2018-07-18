@@ -1,8 +1,0 @@
-{
-  "name": "TerenceIT",
-  "app_id": "81b05282",
-  "type": "ionic-angular",
-  "integrations": {
-    "cordova": {}
-  }
-}
